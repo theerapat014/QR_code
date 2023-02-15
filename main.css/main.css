@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", sans-serif;
+  text-decoration: none;
+}
+
+body {
+  background-color: hsl(212deg, 45%, 89%);
+  min-height: 100vh;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+body .Qrcode_generator {
+  background-color: white;
+  width: 400px;
+  margin: 190px auto auto;
+  border-radius: 10px;
+}
+body .QR_img {
+  padding: auto;
+  margin-left: -3rem;
+  margin-right: -3rem;
+}
+body img {
+  width: 700px;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  width: 70%;
+  margin-top: 1rem;
+}
+body h2 {
+  color: hsl(218deg, 44%, 22%);
+  display: block;
+  align-items: center;
+  margin: auto;
+  width: 70%;
+  margin-top: 1rem;
+}
+body p {
+  color: hsl(212deg, 45%, 89%);
+  display: block;
+  margin: auto;
+  margin-right: auto;
+  width: 70%;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-weight: 700;
+}/*# sourceMappingURL=main.css.map */
