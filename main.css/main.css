@@ -22,6 +22,7 @@ body .QR_img {
   padding: auto;
   margin-left: -3rem;
   margin-right: -3rem;
+  margin-top: 2rem;
 }
 body img {
   width: 700px;
